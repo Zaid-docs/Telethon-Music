@@ -3,7 +3,7 @@ py-tgcalls==0.9.1
 requests
 pillow
 aiofile
-yt-dlp
+git+https://github.com/Zaid-docs/zdlp
 aiofiles
 youtube-search-python
 git+https://github.com/Zaid-docs/okspeed
