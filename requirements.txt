@@ -6,5 +6,5 @@ aiofile
 yt-dlp
 aiofiles
 youtube-search-python
-speedtest-cli
+git+https://github.com/Zaid-docs/okspeed
 numpy
